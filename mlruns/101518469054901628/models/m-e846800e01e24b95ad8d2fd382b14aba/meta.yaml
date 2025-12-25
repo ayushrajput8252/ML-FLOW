@@ -1,0 +1,10 @@
+artifact_location: file:///C:/AYUSH/MLOPS/ML-FLOW/mlruns/101518469054901628/models/m-e846800e01e24b95ad8d2fd382b14aba/artifacts
+creation_timestamp: 1766659678905
+experiment_id: '101518469054901628'
+last_updated_timestamp: 1766659690461
+model_id: m-e846800e01e24b95ad8d2fd382b14aba
+model_type: null
+name: random_forest_model
+source_run_id: 1d8424b39b5e4913a43dfe920bde30c7
+status: 2
+status_message: null

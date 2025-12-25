@@ -5,10 +5,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.datasets import load_wine
 from sklearn.metrics import accuracy_score, confusion_matrix
-import dagshub
+
 import matplotlib.pyplot as plt
 import seaborn as sns
-
 
 # Use local file-based tracking (no server needed)
 mlflow.set_tracking_uri("file:./mlruns")

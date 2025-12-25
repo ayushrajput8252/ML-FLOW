@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/AYUSH/MLOPS/ML-FLOW/mlruns/101518469054901628/1d8424b39b5e4913a43dfe920bde30c7/artifacts
+end_time: 1766659690493
+entry_point_name: ''
+experiment_id: '101518469054901628'
+lifecycle_stage: active
+run_id: 1d8424b39b5e4913a43dfe920bde30c7
+run_name: burly-midge-972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766659677350
+status: 3
+tags: []
+user_id: AYUSH SINGH
